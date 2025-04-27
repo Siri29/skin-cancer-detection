@@ -1,4 +1,4 @@
-# Infinity SknCure
+#Skin-cancer-detection
 
 <p align="center"><img src="https://github.com/ishubham21/infinity-skncure/blob/master/imgs/logo.png"></p>
 
